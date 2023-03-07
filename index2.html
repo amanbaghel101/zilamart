@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Wing the Air</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<!--[if lte IE 6]><style type="text/css" media="screen">.tabbed { height:420px; }</style><![endif]-->
+<script src="js/jquery-1.4.1.min.js" type="text/javascript"></script>
+<script src="js/jquery.jcarousel.pack.js" type="text/javascript"></script>
+<script src="js/jquery.slide.js" type="text/javascript"></script>
+<script src="js/jquery-func.js" type="text/javascript"></script>
+</head>
+<body>
+<!-- Top -->
+<div id="top">
+  <div class="shell">
+    <!-- Header -->
+    <div id="header">
+      <h1 id="logo"><a href="#">Forozabad Maal</a></h1>
+      <div id="navigation">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Support</a></li>
+          <li><a href="#">My Account</a></li>
+          <li><a href="#">The Store</a></li>
+          <li class="last"><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- End Header -->
+    <!-- Slider -->
+    <div id="slider">
+      <div id="slider-holder">
+        <ul>
+          <li><a href="#"><img src="css/images/god.jpg" height="410" width="1010" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/god2.jpg" height="410" width="1020" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/god1.jpg" height="410" width="1020" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/god1.jpeg" height="410" width="1020" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/god3.jpg" height="410" width="1020" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/god.jpeg" height="410" width="1020" alt="" /></a></li>
+        </ul>
+      </div>
+      <div id="slider-nav"> <a href="#" class="prev">Previous</a> <a href="#" class="next">Next</a> </div>
+    </div>
+    <!-- End Slider -->
+  </div>
+</div>
+<!-- Top -->
+<!-- Main -->
+<div id="main">
+  <div class="shell">
+    <!-- Search, etc -->
+    <div class="options">
+      <div class="search">
+        <form action="#" method="post">
+          <span class="field">
+          <input type="text" class="blink" value="SEARCH" title="SEARCH" />
+          </span>
+          <input type="text" class="search-submit" value="GO" />
+        </form>
+      </div>
+      <span class="left"><a href="#">Advanced Search</a></span>
+      <div class="right"> <span class="cart"> <a href="#" class="cart-ico">&nbsp;</a> <strong>₹0.00</strong> </span> <span class="left more-links"> <a href="#">Checkout</a> <a href="#">Details</a> </span> </div>
+    </div>
+    <!-- End Search, etc -->
+    <!-- Content -->
+
+    <div class="grid-container">
+        <div><div class="card">
+            <img src="https://5.imimg.com/data5/LB/EH/HF/SELLER-87657794/craftfry-ganesha-idol-for-gift-double-face-crystal-ganesha-in-yellow-color-250x250.jpg"width="96" height="115" alt="">
+            <h3>Glass Ganesh Statue<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+        <div><div class="card">
+            <img src="https://5.imimg.com/data5/SELLER/Default/2022/7/FE/EX/RZ/16629608/beautiful-pair-of-peacocks-decorative-handmade-item-1--250x250.jpeg"width="96" height="115" alt="">
+            <h3>Multicolor Glass Peacock Statue<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+        <div><div class="card">
+            <img src="https://5.imimg.com/data5/SELLER/Default/2022/12/EL/DZ/NB/180408005/glass-hanuman-ji-statue-250x250.jpg"width="96" height="115" alt="">
+            <h3>Glass Hanuman Ji Statue<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>  
+        <div><div class="card">
+            <img src="https://5.imimg.com/data5/SELLER/Default/2022/2/GW/KN/NW/99478061/1-250x250.jpg"width="96" height="115" alt="">
+            <h3>Glass Krishna Idol<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+        <div><div class="card">
+            <img src="https://5.imimg.com/data5/SELLER/Default/2021/4/BC/XK/QY/101355344/whatsapp-image-2021-04-12-at-10-54-30-am-250x250.jpeg"width="96" height="115" alt="">
+            <h3>Glass Ganesha Statue<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+        <div><div class="card">
+            <img src="https://img2.exportersindia.com/product_images/bc-small/dir_112/3359956/shivling-statue-1664341.jpg"width="96" height="115" alt="">
+            <h3>shivling statue<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+        <div><div class="card">
+            <img src="https://5.imimg.com/data5/SELLER/Default/2021/2/GJ/DN/GV/83059949/glass-nandi-bull-250x250.jpeg"width="96" height="115" alt="">
+            <h3>Crystal Glass Nandi Statue<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+        <div><div class="card">
+            <img src="https://cpimg.tistatic.com/07335576/s/4/SVKD-Transparent-Glass-Shivling.jpg"width="96" height="115" alt="">
+            <h3>Transparent Glass Shivling<br>₹100.00<br>34 reviews</h3>
+<a href="pay.html">
+            <button type="button" class="btn bg-cart"><i class="fa fa-cart-plus mr-2"></i> Add to  cart</button>
+            </a>        </div></div>
+    </div>
+         <!-- Footer -->
+    <div id="footer">
+             <div class="left"> <a href="#">Home</a> <span>|</span> <a href="#">Support</a> <span>|</span> <a href="#">My Account</a> <span>|</span> <a href="#">The Store</a> <span>|</span> <a href="#">Contact</a> </div>
+             <div class="right"> &copy; Sitename.com. Design by <a href="http://chocotemplates.com">ChocoTemplates.com</a> </div>
+    </div>
+        <!-- End Footer -->
+    <!-- End Content -->
+  </div>
+</div>
+<!-- End Main -->
+</body>
+</html>
